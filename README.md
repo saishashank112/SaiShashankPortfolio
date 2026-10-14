@@ -37,8 +37,6 @@ An interactive learning project for visualizing data structures and algorithms.
 ### Employee Sales Management System
 A full-stack project concept for organizing employee records and sales information.
 
-### Cloud Status Dashboard
-A cloud-status dashboard previously deployed on Render: https://cloud-dashboard-8tkz.onrender.com
 
 > Project descriptions summarize the portfolio content. Check each project's implementation status, source code, and live links before presenting it as a completed production project.
 
